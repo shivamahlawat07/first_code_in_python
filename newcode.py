@@ -1,2 +1,4 @@
 a=100
-print("your value is ",a)
+b= 200
+print("your value is ",a,b)
+
