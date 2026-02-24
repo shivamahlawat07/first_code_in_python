@@ -1,3 +1,6 @@
 print("hedjdco::")
-print("helloo")
+print("hello")
+<<<<<<< HEAD
 
+=======
+>>>>>>> chandigarh
